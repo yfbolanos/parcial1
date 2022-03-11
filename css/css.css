@@ -36,7 +36,7 @@
     background-size: cover;
     background-position: center;
     width: 40%;
-    height: 500px;
+    height: 350px;
     margin-top: 20px;
 
 }
@@ -45,7 +45,7 @@
     background-size: cover;
     background-position: center;
     width: 40%;
-    height: 500px;
+    height: 350px;
     margin-top: 20px;
 
 }
@@ -54,9 +54,9 @@
     background-image: url("../NARIÑO/NARIÑO.jpg");
     background-size: cover;
     background-position: center;
-    width: 40%;
-    height: 500px;
-    margin-top: 20px;
+    width: 30%;
+    height: 300px;
+    margin-top: 100px;
 
 }
 
