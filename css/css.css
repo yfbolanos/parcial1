@@ -1,0 +1,81 @@
+.nav-space {
+    background-color: #eb4d4b;
+    justify-content: space-between;
+    padding: 10px;
+    border-style: groove;
+    
+}
+
+.options-bar {
+    margin-left: 50px;
+}
+
+.text-decoration {
+    text-decoration: none;
+    font-size: -7rem;
+    color: white;
+}
+
+.principal {
+    width: auto;
+    margin: auto;
+}
+
+.img-principal {
+    background-image: url("../PRINCIPAL/SUROCCIDENTE.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 30%;
+    height: 300px;
+    margin-top: 100px;
+
+}
+
+.img-valle {
+    background-image: url("../VALLE/VALLE.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+.img-cauca {
+    background-image: url("../CAUCA/CAUCA.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+
+.img-nariño {
+    background-image: url("../NARIÑO/NARIÑO.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+
+.text-principal {
+    margin-top: 5px;
+    justify-content: left;
+    text-align: center;
+    width: 60%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-space {
+    justify-content: center;
+    text-align-last: center;
+    margin-top: 80px;
+}
+
+.footer-space p {
+    font-size: 15px;
+
+}
